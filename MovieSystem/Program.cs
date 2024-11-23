@@ -29,6 +29,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 //taghred
+//nour
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
